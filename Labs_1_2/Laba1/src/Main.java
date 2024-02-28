@@ -7,12 +7,12 @@ public class Main {
 
     public static void main(String[] args) {
 
-        // 1 вариант 6 задание
+        // 1 вариант 1 задание
         Hello hello = new Hello();
         hello.Input();
         hello.Output();
 
-        // 1 вариант 7 задание
+        // 1 вариант 6 задание
         Developer_Data.Info();
 
         // 2 вариант 6 задание
