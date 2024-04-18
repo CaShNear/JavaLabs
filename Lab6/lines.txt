@@ -1,0 +1,8 @@
+Line equation: ( -4,000000 ) * x + ( 1,000000 ) * y + ( 6,000000 ) = 0; Number of crossed points: 2
+Line equation: ( -2,000000 ) * x + ( 1,000000 ) * y + ( 0,000000 ) = 0; Number of crossed points: 3
+Line equation: ( 1,000000 ) * x + ( 0,000000 ) * y + ( -1,000000 ) = 0; Number of crossed points: 2
+Line equation: ( 0,000000 ) * x + ( 1,000000 ) * y + ( -2,000000 ) = 0; Number of crossed points: 2
+Line equation: ( -1,000000 ) * x + ( 1,000000 ) * y + ( -2,000000 ) = 0; Number of crossed points: 2
+Line equation: ( 1,000000 ) * x + ( 0,000000 ) * y + ( -2,000000 ) = 0; Number of crossed points: 2
+Line equation: ( -1,500000 ) * x + ( 1,000000 ) * y + ( -1,500000 ) = 0; Number of crossed points: 2
+Line equation: ( 1,000000 ) * x + ( 1,000000 ) * y + ( -4,000000 ) = 0; Number of crossed points: 2
